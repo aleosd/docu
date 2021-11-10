@@ -12,7 +12,7 @@ path = "src/main.rs"
 
 [dependencies]
 log = "*"
-dockworker = "*"
+dockworker = "0.0.23"
 pretty-bytes = "*"
 clap = "*"
 serde_json = "1.0"

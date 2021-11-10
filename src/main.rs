@@ -6,7 +6,7 @@ extern crate log;
 extern crate pretty_bytes;
 
 use dockworker::Docker;
-use log::{info, warn, error, LevelFilter};
+use log::{error, info, warn, LevelFilter};
 use std;
 
 mod clean;
